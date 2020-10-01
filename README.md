@@ -1,3 +1,3 @@
 # geekbrains.homework
 
-some update
+some updat
